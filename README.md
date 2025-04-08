@@ -818,12 +818,13 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 =====SPORTS FHD======
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
+#EXTINF:-1 tvg-id="ASTRO ARENA FHD" tvg-name="⚽ SPORTS FHD" group-title="ASTEO ARENA FHD" group-logo="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796", ASTRO ARENA FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 http://extraott.com:900/live/3162523972/3791698850/29658.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486226_ico.png?ts=1743860879",802 Arena 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
