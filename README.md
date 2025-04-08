@@ -825,7 +825,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://extraott.com:900/live/3162523972/3791698850/29658.ts
+
 
 #EXTINF:-1 tvg-id="ASTRO ARENA 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486226_ico.png?ts=1743860879", 802 ASTRO ARENA 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -833,7 +833,7 @@ http://extraott.com:900/live/3162523972/3791698850/29658.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://extraott.com:900/live/3162523972/3791698850/13111.ts
+
 
 #EXTINF:-1 tvg-id="ASTRO ARENA BOLA FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013", 803 ASTRO ARENA BOLA FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -841,7 +841,7 @@ http://extraott.com:900/live/3162523972/3791698850/13111.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://extraott.com:900/live/3162523972/3791698850/401550644.ts
+http://tvking.xyz:8080/live/pockettv/pockettv15/18864.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO ARENA BOLA 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067", 804 ASTRO ARENA BOLA 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -849,4 +849,4 @@ http://extraott.com:900/live/3162523972/3791698850/401550644.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://extraott.com:900/live/3162523972/3791698850/401550643.ts
+http://tvking.xyz:8080/live/pockettv/pockettv15/19068.m3u8
