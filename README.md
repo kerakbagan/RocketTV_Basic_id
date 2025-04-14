@@ -835,3 +835,11 @@ http://tvking.xyz:8080/live/pockettv/pockettv15/18863.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 http://tvking.xyz:8080/live/pockettv/pockettv15/18864.m3u8
+
+======MOVIE======
+#EXTINF:-1 tvg-id="MAN LAKSA" tvg-logo="https://images.jdmagicbox.com/comp/jd_social/news/2018jul12/image-35845-3aubsmvkxq.jpg" group-logo="" group-title="⚽ MOVIE",MAN LAKSA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+http://upos-sz-mirroralibstar1.bilivideo.com/iupxcodeboss/gc/44/n230715adsyr0i0wbpkdy2npo6bj44gc-1-111220110000.m4s
