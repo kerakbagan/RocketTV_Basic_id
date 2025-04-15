@@ -818,6 +818,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotv2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDM4MDAzMzUsImlzcyI6IlZSIiwiZXhwIjoxNzQzODI5MTM1LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.ypUp8MZHVjECUU0CZW2V_zqWMVVz5S-r83mgX_Iq22o
 
 ======SPORTS FHD======
+
 #EXTINF:-1 tvg-id="ASTRO ARENA BOLA FHD" tvg-name="ASTRO ARENA BOLA FHD" group-title="⚽ SPORTS FHD" group-logo="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013", ASTRO ARENA BOLA FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
